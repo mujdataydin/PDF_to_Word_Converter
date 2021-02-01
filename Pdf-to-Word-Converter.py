@@ -3,7 +3,7 @@ print("Developed by Müjdat Aydın")
 
 from pdf2docx import Converter
 from tkinter import Tk
-from tkinter.filedialog import askopenfilename, askdirectory
+from tkinter.filedialog import askopenfilename
 
 Tk().withdraw()
 
